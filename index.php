@@ -10,6 +10,7 @@
 
 <body>
     <h2>Brata blessza say hello</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti recusandae rerum inventore aspernatur dolores unde ipsa error, modi necessitatibus iste ex soluta dignissimos alias temporibus autem, minus architecto quia nemo!</p>
 </body>
 
 </html>
